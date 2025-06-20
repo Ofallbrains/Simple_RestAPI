@@ -33,3 +33,8 @@ Framework: Express.JS
   "name": "Alice",
   "email": "alice@example.com"
 }
+```
+
+### Get a user by ID(GET: /user:id)
+Method: GET
+URL: http://localhost:3000/users/1
