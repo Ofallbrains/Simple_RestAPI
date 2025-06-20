@@ -11,7 +11,7 @@ This is a simple REST API built with Node.js and Express.js which uses in memory
 ## How to run the API
  1. Clone the repository
     ```bash
-    git clone https://github.com/ofallbrains/Simple_RestAPI.git
+    git clone https://github.com/Ofallbrains/Simple_RestAPI.git
     cd Simple_RestAPI
 2. Install dependecies :
     ```bash
