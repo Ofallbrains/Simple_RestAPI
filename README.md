@@ -3,8 +3,8 @@ This is a simple REST API built with Node.js and Express.js which uses in memory
 
 ---
 
-**Programming Language used: Javascript(Node JS)
-**Framework: Express.JS
+Programming Language used: Javascript(Node JS)
+Framework: Express.JS
 
 ---
 
@@ -19,3 +19,17 @@ This is a simple REST API built with Node.js and Express.js which uses in memory
 3. Start the sever
     ```bash
     node server.js
+
+## Example requests
+
+### Create a User (POST /users)
+- Method: POST  
+- URL: `http://localhost:3000/users`
+- Headers: 
+  `Content-Type: application/json`  
+- Body (JSON):
+```json
+{
+  "name": "Alice",
+  "email": "alice@example.com"
+}
