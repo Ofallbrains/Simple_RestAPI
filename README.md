@@ -36,5 +36,5 @@ This is a simple REST API built with Node.js and Express.js which uses in memory
 ```
 
 ### Get a user by ID(GET: /user:id)
-. Method: GET
-. URL: http://localhost:3000/users/1
+- Method: GET
+- URL: http://localhost:3000/users/1
